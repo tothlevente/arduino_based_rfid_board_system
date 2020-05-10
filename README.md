@@ -4,10 +4,10 @@ Thank you for your interest about this project!
 
 Please read all files before you use this project.
 
-# # 📌 Description:
+## 📌 Description:
 Touch your id card to RFID panel.
 
-# # 💡 Setup:
+## 💡 Setup:
 Set your valid cards in the void <code>setup()</code> area:
 
 <code>id[0] = "";</code>
@@ -16,4 +16,4 @@ Set your valid cards in the void <code>setup()</code> area:
 <code>id[3] = "";</code>
 <code>id[4] = "";</code>
 
-# # 📍 More information:
+## 📍 More information:
