@@ -17,3 +17,5 @@ Set your valid cards in the void <code>setup()</code> area:
 <code>id[4] = "";</code>
 
 ## 📍 More information:
+
+Feel free to copy that if you want to use your own project.
