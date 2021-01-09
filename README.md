@@ -1,6 +1,3 @@
-> #### ⚠ This project currently in development and not ready yet. There are things that haven't been finalized, so this repository might change before it's ready.
->
-> <hr />
 >
 > [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 >
